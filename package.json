@@ -1,0 +1,57 @@
+{
+  "_from": "react-native-idle-timer@^2.1.6",
+  "_id": "react-native-idle-timer@2.1.6",
+  "_inBundle": false,
+  "_integrity": "sha1-YHbJ5hJ6q9yOseHYRgFL/j36dSc=",
+  "_location": "/react-native-idle-timer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-idle-timer@^2.1.6",
+    "name": "react-native-idle-timer",
+    "escapedName": "react-native-idle-timer",
+    "rawSpec": "^2.1.6",
+    "saveSpec": null,
+    "fetchSpec": "^2.1.6"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-idle-timer/download/react-native-idle-timer-2.1.6.tgz",
+  "_shasum": "6076c9e6127aabdc8eb1e1d846014bfe3dfa7527",
+  "_spec": "react-native-idle-timer@^2.1.6",
+  "_where": "/Users/zhanglinfeimacair/workroom/coding/SmartFleet_App_Admin/SmartFleet_App_Admin",
+  "author": {
+    "name": "Marc Shilling",
+    "url": "marcshilling"
+  },
+  "bugs": {
+    "url": "https://github.com/marcshilling/react-native-idle-timer/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A cross-platform bridge that allows you to enable and disable the screen idle timer in your React Native app",
+  "homepage": "https://github.com/marcshilling/react-native-idle-timer#readme",
+  "keywords": [
+    "react-native",
+    "react-native-idle-timer",
+    "react",
+    "native",
+    "screen",
+    "lock",
+    "sleep",
+    "idle",
+    "timer",
+    "dim"
+  ],
+  "main": "index.js",
+  "name": "react-native-idle-timer",
+  "nativePackage": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcshilling/react-native-idle-timer.git"
+  },
+  "types": "index.d.ts",
+  "version": "2.1.6"
+}
